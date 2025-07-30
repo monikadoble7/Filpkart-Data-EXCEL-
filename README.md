@@ -9,6 +9,8 @@ This project presents a detailed analysis and visualization of a Flipkart mobile
 * *Key Focus Areas*: Ratings, Reviews, Pricing, Discounts, Brand Analysis, and Mobile Comparisons
 
 ## 📌 Dashboard Highlights
+![WhatsApp Image 2025-07-30 at 22 14 32_3f651616](https://github.com/user-attachments/assets/087600ec-ba59-4f47-8eb4-36412be811bc)
+
 
 The Excel dashboard includes the following insights:
 
