@@ -1,7 +1,3 @@
-Here's a clean and informative *README* file you can use for your Flipkart Dataset Analysis & Visualization project on GitHub:
-
----
-
 # 📊 Flipkart Mobile Dataset Analysis & Visualization
 
 This project presents a detailed analysis and visualization of a Flipkart mobile dataset using *Excel*. The goal was to extract meaningful insights from the data and present them through a well-structured interactive dashboard.
